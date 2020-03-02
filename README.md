@@ -7,15 +7,23 @@ Python interpreter for Photoshop integration.
 
 Installing
 ----------
-Download https://drive.google.com/file/d/1Q6UnomW0mj3XZoTdRmRbGNSy_vRzqI4A/view?usp=sharing
+- Download [photoshop_python_integration](https://drive.google.com/open?id=1BUN9VzOLd7sccK_WMrNjK7XwoUCmVWoL) and unzip the installation package.
 
-Copy `photoshop_python_integration` from this root folder to the 
+- If your photoshop has another version installed or it is installed in another
+ location please modify `site.jsx`.
+![set python path](https://i.imgur.com/xRmquQf.png)
+
+- Copy `photoshop_python_integration` from this root folder to the 
 `Presets\Scripts` folder under your photoshop installation directory.
 
 For example:
 
 `C:\Program Files\Adobe\Adobe Photoshop 2020\Presets\Scripts`
 
+Reopen Photoshop under the `Filter` menu to see the two menus of `python` and `pythonIDE`. 
+Enjoy ~
+
+![menu](https://i.imgur.com/2IFyzwc.png)
 
 Need to implement
 -----------------
