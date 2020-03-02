@@ -34,10 +34,10 @@ Need to implement
 Integration
 ===========
 
-##[multi_script_editor](https://github.com/paulwinex/pw_MultiScriptEditor)
+- [multi_script_editor](https://github.com/paulwinex/pw_MultiScriptEditor)
 This is a cross application, cross platform and open source Python editor, 
 which can be run as a standalone application or embedded in another 
 application. The main purpose for integration - the ability to script in Python.
 
-##[photoshop_python_api](https://github.com/loonghao/photoshop_python_api)
+- [photoshop_python_api](https://github.com/loonghao/photoshop_python_api)
 The API for using COM (Component Object Model) objects interfaces of Photoshop.
