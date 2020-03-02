@@ -1,0 +1,6 @@
+[submodule "vendor/pw_MultiScriptEditor"]
+	path = vendor/pw_MultiScriptEditor
+	url = https://github.com/paulwinex/pw_MultiScriptEditor
+[submodule "vendor/photoshop_python_api"]
+	path = vendor/photoshop_python_api
+	url = https://github.com/loonghao/photoshop_python_api
