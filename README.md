@@ -7,7 +7,7 @@ Python interpreter for Photoshop integration.
 
 Installing
 ----------
-- Download [photoshop_python_integration](https://drive.google.com/file/d/1iSxVlkr8-9OC9GoKV2QEYOrpG0uN_vwu/view?usp=sharing) and unzip the installation package.
+- Download [photoshop_python_integration](https://drive.google.com/drive/folders/1jPFud2KU9zulrTlldU7MyxfFN9iaRHQE?usp=sharing) and unzip the installation package.
 
 - If your photoshop has another version installed or it is installed in another
  location please modify `site.jsx`.
